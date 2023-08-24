@@ -1,0 +1,19 @@
+# Build files
+/target
+Cargo.lock
+dist
+
+# Environment variables
+.env
+
+# Mac OS X files
+.DS_Store
+*.swp
+
+# vscode folder
+.vscode
+package-lock.jsonyarn
+out
+
+# project specific
+cognito_pool.json
